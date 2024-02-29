@@ -4,10 +4,13 @@ import 'gcd.dart';
 import 'largest.dart';
 import 'armstrong.dart';
 import 'factorial.dart';
+import 'leap.dart';
 import 'odd_even.dart';
 import 'palindrome.dart';
+import 'prime.dart';
 import 'reminder.dart';
 import 'swap.dart';
+import 'vowels.dart';
 
 void main(List<String> arguments) {
 
@@ -18,7 +21,10 @@ void main(List<String> arguments) {
 // Gcd();
 // largest();
 // odd_even();
-reminder();
+// reminder();
+// leap();
+// vowels();
+prime();
 
 
 
