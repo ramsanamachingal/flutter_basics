@@ -1,10 +1,12 @@
 import 'package:flutter_basics/flutter_basics.dart' as flutter_basics;
 
+import 'fibonacci.dart';
 import 'gcd.dart';
 import 'largest.dart';
 import 'armstrong.dart';
 import 'factorial.dart';
 import 'leap.dart';
+import 'list.dart';
 import 'odd_even.dart';
 import 'palindrome.dart';
 import 'prime.dart';
@@ -24,7 +26,9 @@ void main(List<String> arguments) {
 // reminder();
 // leap();
 // vowels();
-prime();
+// prime();
+// fibonacci();
+list();
 
 
 
