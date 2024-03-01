@@ -10,6 +10,7 @@ import 'list.dart';
 import 'odd_even.dart';
 import 'palindrome.dart';
 import 'prime.dart';
+import 'range.dart';
 import 'reminder.dart';
 import 'swap.dart';
 import 'vowels.dart';
@@ -28,7 +29,8 @@ void main(List<String> arguments) {
 // vowels();
 // prime();
 // fibonacci();
-list();
+// list();
+range();
 
 
 
