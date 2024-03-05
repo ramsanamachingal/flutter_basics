@@ -1,5 +1,7 @@
 import 'package:flutter_basics/flutter_basics.dart' as flutter_basics;
 
+import 'binary.dart';
+import 'email.dart';
 import 'fibonacci.dart';
 import 'gcd.dart';
 import 'largest.dart';
@@ -13,6 +15,7 @@ import 'prime.dart';
 import 'range.dart';
 import 'reminder.dart';
 import 'swap.dart';
+import 'swaplist.dart';
 import 'vowels.dart';
 
 void main(List<String> arguments) {
@@ -30,8 +33,11 @@ void main(List<String> arguments) {
 // prime();
 // fibonacci();
 // list();
-range();
+// range();
+// email();
+// binary();
 
+swaplist();
 
 
  }
