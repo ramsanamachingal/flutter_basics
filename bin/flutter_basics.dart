@@ -1,6 +1,8 @@
 import 'package:flutter_basics/flutter_basics.dart' as flutter_basics;
 
+import 'area.dart';
 import 'binary.dart';
+import 'calculator.dart';
 import 'email.dart';
 import 'fibonacci.dart';
 import 'gcd.dart';
@@ -10,9 +12,11 @@ import 'factorial.dart';
 import 'leap.dart';
 import 'list.dart';
 import 'odd_even.dart';
+import 'oop.dart';
 import 'palindrome.dart';
 import 'prime.dart';
 import 'range.dart';
+import 'rectangle.dart';
 import 'reminder.dart';
 import 'swap.dart';
 import 'swaplist.dart';
@@ -37,7 +41,17 @@ void main(List<String> arguments) {
 // email();
 // binary();
 
-swaplist();
+// swaplist();
+// calculator();
+// circle();
+// person obj=person();
+// obj.details();
+rectangle  obj=rectangle();
+print(obj.calculatearea());
+print(obj.calculateperimeter());
+
+
+
 
 
  }
