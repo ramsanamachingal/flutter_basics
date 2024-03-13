@@ -1,4 +1,4 @@
-class rectangle{
+class rectangles{
   int length=6;
   int width=6;
   int calculatearea(){
